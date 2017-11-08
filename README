@@ -11,3 +11,8 @@ To reproduce the results obtained in it follow the instructions below:
 							python extractor.py 4 4
 4) Wait for the completion of all tasks and run "python group_and_classify.py" after modifying the line 10 with threads = n (number of cores used).
 5) Look at the output in the folder "output"
+
+
+Some users are reporting an error related with latests update to the biopython library:
+We recommend to use biopython 1.66 or earlier.
+ 
